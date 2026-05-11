@@ -22,14 +22,11 @@ I also have experience in frontend development with Angular, which helps me buil
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat\&logo=reactivex\&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat\&logo=SASS\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat\&logo=bootstrap\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat\&logo=firebase\&logoColor=ffcd34)
 
 **Testing & Tools**
 
